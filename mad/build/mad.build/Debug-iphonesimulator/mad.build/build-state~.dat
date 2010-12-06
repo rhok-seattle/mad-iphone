@@ -1,0 +1,422 @@
+Tmad
+v7
+r0
+t313220065.516991
+cCheck dependencies
+cProcessInfoPlistFile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/Info.plist mad-Info.plist
+cCompileXIB /Users/laurel/rhok/mad-iphone/mad/MainWindow.xib
+cCompileXIB /Users/laurel/rhok/mad-iphone/mad/SecondView.xib
+cCompileXIB /Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib
+cCompileXIB /Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib
+cCompileXIB /Users/laurel/rhok/mad-iphone/mad/Classes/FormView.xib
+cCpResource build/Debug-iphonesimulator/mad.app/form.html Classes/form.html
+cProcessPCH /var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch.gch mad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/DamageReport.mom /Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.xcdatamodel
+cCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/main.o /Users/laurel/rhok/mad-iphone/mad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/madAppDelegate.o /Users/laurel/rhok/mad-iphone/mad/Classes/madAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormTableViewController.o /Users/laurel/rhok/mad-iphone/mad/FormTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/TextFieldTableViewCell.o /Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/DamageReport-370A0A71F47C5B89.o /Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormView.o /Users/laurel/rhok/mad-iphone/mad/Classes/FormView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B6756600000000000000110
+t1265063520
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004B5672100000000000196720
+t1263956496
+s1664800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004B567206000000000000046B
+t1263956486
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B567172000000000026F020
+t1263956338
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B56718B0000000000288B20
+t1263956363
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B56717E0000000000001355
+t1263956350
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B56A2960000000000000970
+t1263968918
+s2416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B56A324000000000211C6C0
+t1263969060
+s34719424
+
+N/Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.h
+c000000004CFACA310000000000000254
+t1291504177
+s596
+i<CoreData/CoreData.h>
+
+N/Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.m
+c000000004CFAC9CE000000000000015A
+t1291504078
+s346
+i"DamageReport.h"
+
+N/Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.xcdatamodel
+c000000004CFACA280000000000000088
+t1291504168
+s136
+
+N/Users/laurel/rhok/mad-iphone/mad/Classes/FormView.h
+c000000004CFB196000000000000002B4
+t1291524448
+s692
+i<UIKit/UIKit.h>
+
+N/Users/laurel/rhok/mad-iphone/mad/Classes/FormView.m
+c000000004CFB1A650000000000000D2B
+t1291524709
+s3371
+i"FormView.h"
+
+N/Users/laurel/rhok/mad-iphone/mad/Classes/FormView.xib
+c000000004CFB19A30000000000006FFD
+t1291524515
+s28669
+
+N/Users/laurel/rhok/mad-iphone/mad/Classes/form.html
+c000000004CFB1B040000000000000362
+t1291524868
+s866
+
+N/Users/laurel/rhok/mad-iphone/mad/Classes/madAppDelegate.h
+c000000004CFAADBD00000000000001C5
+t1291496893
+s453
+i<UIKit/UIKit.h>
+
+N/Users/laurel/rhok/mad-iphone/mad/Classes/madAppDelegate.m
+c000000004CFAADBD00000000000003FE
+t1291496893
+s1022
+i"madAppDelegate.h"
+
+N/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/MainWindow.xib
+c000000004CFAE8130000000000006FC2
+t1291511827
+s28610
+
+N/Users/laurel/rhok/mad-iphone/mad/SecondView.xib
+c000000004CFAD7830000000000004EA8
+t1291507587
+s20136
+
+N/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app.dSYM
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/DamageReport.mom
+t1291527265
+s1760
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/FormTableViewController.nib
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/FormView.nib
+t1291527264
+s2222
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/Info.plist
+t1291527264
+s575
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/MainWindow.nib
+t1291527264
+s2140
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/PkgInfo
+t1291527264
+s8
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/SecondView.nib
+t1291527264
+s1709
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/TextFieldTableViewCell.nib
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/form.html
+t1291527264
+s866
+
+N/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/mad
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/DamageReport-370A0A71F47C5B89.o
+t1291527265
+s5324
+
+N/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormTableViewController.o
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormView.o
+t1291527265
+s47548
+
+N/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/TextFieldTableViewCell.o
+t2
+s0
+
+N/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/mad.LinkFileList
+c000000004CFB246000000000000002DA
+t1291527264
+s730
+
+N/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/madAppDelegate.o
+t1291527265
+s44112
+
+N/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/main.o
+t1291527265
+s5932
+
+N/Users/laurel/rhok/mad-iphone/mad/mad_Prefix.pch
+c000000004CFAADBD00000000000000AF
+t1291496893
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/laurel/rhok/mad-iphone/mad/main.m
+c000000004CFAADBD0000000000000159
+t1291496893
+s345
+i<UIKit/UIKit.h>
+
+N/var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch.gch
+t1291527265
+s13719376
+
+Nmad-Info.plist
+c000000004CFAADBD000000000000038D
+t1291496893
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313220063#313220064#0(0"0(0#1#0"8245940720249172992#0"0#
+
+CCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/DamageReport-370A0A71F47C5B89.o /Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313220065.428827
+e313220065.497694
+r1
+xCompileC
+xbuild/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/DamageReport-370A0A71F47C5B89.o
+x/Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.m313220065#313220065#0(0"0(0#0#56"/Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.m4300903632#1763"    cd /Users/laurel/rhok/mad-iphone/mad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-generated-files.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-own-target-headers.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-all-target-headers.hmap -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-project-headers.hmap -F/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator -I/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/include -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources/i386 -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources -include /var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch -c /Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.m -o /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/DamageReport-370A0A71F47C5B89.o0#
+
+CCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormTableViewController.o /Users/laurel/rhok/mad-iphone/mad/FormTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313220065.344787
+e313220065.430441
+r0
+xCompileC
+xbuild/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormTableViewController.o
+x/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/laurel/rhok/mad-iphone/mad/FormTableViewController.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@67"Compile /Users/laurel/rhok/mad-iphone/mad/FormTableViewController.m313220065#313220065#0(361"i686-apple-darwin10-gcc-4.2.1: /Users/laurel/rhok/mad-iphone/mad/FormTableViewController.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1313220065#18446744073709551615#0#0(1@0"0(0#0#59"/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.m4300903632#1760"    cd /Users/laurel/rhok/mad-iphone/mad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-generated-files.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-own-target-headers.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-all-target-headers.hmap -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-project-headers.hmap -F/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator -I/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/include -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources/i386 -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources -include /var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch -c /Users/laurel/rhok/mad-iphone/mad/FormTableViewController.m -o /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormTableViewController.o1#
+
+CCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormView.o /Users/laurel/rhok/mad-iphone/mad/Classes/FormView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313220065.430573
+e313220065.516855
+r1
+xCompileC
+xbuild/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormView.o
+x/Users/laurel/rhok/mad-iphone/mad/Classes/FormView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/laurel/rhok/mad-iphone/mad/Classes/FormView.m313220065#313220065#0(0"0(0#0#52"/Users/laurel/rhok/mad-iphone/mad/Classes/FormView.m4300903632#1738"    cd /Users/laurel/rhok/mad-iphone/mad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-generated-files.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-own-target-headers.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-all-target-headers.hmap -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-project-headers.hmap -F/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator -I/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/include -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources/i386 -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources -include /var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch -c /Users/laurel/rhok/mad-iphone/mad/Classes/FormView.m -o /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/FormView.o0#
+
+CCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/TextFieldTableViewCell.o /Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313220065.427449
+e313220065.434486
+r0
+xCompileC
+xbuild/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/TextFieldTableViewCell.o
+x/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.m: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@66"Compile /Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.m313220065#313220065#0(360"i686-apple-darwin10-gcc-4.2.1: /Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.m: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x objective-c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 11(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1313220065#18446744073709551615#0#0(1@0"0(0#0#58"/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.m4300903632#1758"    cd /Users/laurel/rhok/mad-iphone/mad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-generated-files.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-own-target-headers.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-all-target-headers.hmap -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-project-headers.hmap -F/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator -I/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/include -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources/i386 -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources -include /var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch -c /Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.m -o /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/TextFieldTableViewCell.o1#
+
+CCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/madAppDelegate.o /Users/laurel/rhok/mad-iphone/mad/Classes/madAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313220065.343890
+e313220065.427267
+r1
+xCompileC
+xbuild/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/madAppDelegate.o
+x/Users/laurel/rhok/mad-iphone/mad/Classes/madAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/laurel/rhok/mad-iphone/mad/Classes/madAppDelegate.m313220065#313220065#0(0"0(0#0#58"/Users/laurel/rhok/mad-iphone/mad/Classes/madAppDelegate.m4300903632#1750"    cd /Users/laurel/rhok/mad-iphone/mad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-generated-files.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-own-target-headers.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-all-target-headers.hmap -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-project-headers.hmap -F/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator -I/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/include -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources/i386 -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources -include /var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch -c /Users/laurel/rhok/mad-iphone/mad/Classes/madAppDelegate.m -o /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/madAppDelegate.o0#
+
+CCompileC build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/main.o /Users/laurel/rhok/mad-iphone/mad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313220065.343051
+e313220065.427034
+r1
+xCompileC
+xbuild/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/main.o
+x/Users/laurel/rhok/mad-iphone/mad/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/laurel/rhok/mad-iphone/mad/main.m313220065#313220065#0(0"0(0#0#40"/Users/laurel/rhok/mad-iphone/mad/main.m4300903632#1722"    cd /Users/laurel/rhok/mad-iphone/mad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-generated-files.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-own-target-headers.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-all-target-headers.hmap -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-project-headers.hmap -F/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator -I/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/include -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources/i386 -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources -include /var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch -c /Users/laurel/rhok/mad-iphone/mad/main.m -o /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/laurel/rhok/mad-iphone/mad/Classes/FormView.xib
+s313220064.210372
+e313220064.604020
+r1
+xCompileXIB
+x/Users/laurel/rhok/mad-iphone/mad/Classes/FormView.xib
+lSLF07#2@31"CompileXIB Classes/FormView.xib313220064#313220064#0(0"0(0#0#54"/Users/laurel/rhok/mad-iphone/mad/Classes/FormView.xib29273878621126700#465"    cd /Users/laurel/rhok/mad-iphone/mad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/FormView.nib /Users/laurel/rhok/mad-iphone/mad/Classes/FormView.xib0#
+
+CCompileXIB /Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib
+s313220064.073087
+e313220064.210261
+r0
+xCompileXIB
+x/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib
+o/* com.apple.ibtool.errors */
+o/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib: error: File does not exist at path 'file://localhost/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib'
+lSLF07#2@38"CompileXIB FormTableViewController.xib313220064#313220064#0(208"/* com.apple.ibtool.errors *//Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib: error: File does not exist at path 'file://localhost/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib'1(4@107"File does not exist at path 'file://localhost/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib'313220064#18446744073709551615#0#0(6@61"/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib313220064#0#0#0#0#0"0(0#0#61"/Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib4300903632#487"    cd /Users/laurel/rhok/mad-iphone/mad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/FormTableViewController.nib /Users/laurel/rhok/mad-iphone/mad/FormTableViewController.xib1#
+
+CCompileXIB /Users/laurel/rhok/mad-iphone/mad/MainWindow.xib
+s313220064.071679
+e313220064.468135
+r1
+xCompileXIB
+x/Users/laurel/rhok/mad-iphone/mad/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib313220064#313220064#0(0"0(0#0#48"/Users/laurel/rhok/mad-iphone/mad/MainWindow.xib4300903632#461"    cd /Users/laurel/rhok/mad-iphone/mad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/MainWindow.nib /Users/laurel/rhok/mad-iphone/mad/MainWindow.xib0#
+
+CCompileXIB /Users/laurel/rhok/mad-iphone/mad/SecondView.xib
+s313220064.072488
+e313220064.469442
+r1
+xCompileXIB
+x/Users/laurel/rhok/mad-iphone/mad/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib313220064#313220064#0(0"0(0#0#48"/Users/laurel/rhok/mad-iphone/mad/SecondView.xib4300903632#461"    cd /Users/laurel/rhok/mad-iphone/mad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/SecondView.nib /Users/laurel/rhok/mad-iphone/mad/SecondView.xib0#
+
+CCompileXIB /Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib
+s313220064.073874
+e313220064.242352
+r0
+xCompileXIB
+x/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib
+o/* com.apple.ibtool.errors */
+o/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib: error: File does not exist at path 'file://localhost/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib'
+lSLF07#2@37"CompileXIB TextFieldTableViewCell.xib313220064#313220064#0(206"/* com.apple.ibtool.errors *//Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib: error: File does not exist at path 'file://localhost/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib'1(4@106"File does not exist at path 'file://localhost/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib'313220064#18446744073709551615#0#0(6@60"/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib313220064#0#0#0#0#0"0(0#0#60"/Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib4300903632#485"    cd /Users/laurel/rhok/mad-iphone/mad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/TextFieldTableViewCell.nib /Users/laurel/rhok/mad-iphone/mad/TextFieldTableViewCell.xib1#
+
+CCpResource build/Debug-iphonesimulator/mad.app/form.html Classes/form.html
+s313220064.242466
+e313220064.249937
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mad.app/form.html
+xClasses/form.html
+lSLF07#2@22"Copy Classes/form.html313220064#313220064#0(0"0(0#0#51"/Users/laurel/rhok/mad-iphone/mad/Classes/form.html4300903632#442"    cd /Users/laurel/rhok/mad-iphone/mad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/laurel/rhok/mad-iphone/mad/Classes/form.html /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app0#
+
+CDataModelCompile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/DamageReport.mom /Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.xcdatamodel
+s313220065.342055
+e313220065.469425
+r1
+xDataModelCompile
+x/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/DamageReport.mom
+x/Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.xcdatamodel
+lSLF07#2@74"Compile /Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.xcdatamodel313220065#313220065#0(0"0(0#0#66"/Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.xcdatamodel4300903632#383"    cd /Users/laurel/rhok/mad-iphone/mad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/laurel/rhok/mad-iphone/mad/Classes/DamageReport.xcdatamodel /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/DamageReport.mom0#
+
+CGenerateDSYMFile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app.dSYM /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/mad
+r0
+
+CLd /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/mad normal i386
+r0
+
+CProcessInfoPlistFile /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/Info.plist mad-Info.plist
+s313220064.048124
+e313220064.071588
+r1
+xProcessInfoPlistFile
+x/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/Info.plist
+xmad-Info.plist
+lSLF07#2@22"Process mad-Info.plist313220064#313220064#0(0"0(0#0#48"/Users/laurel/rhok/mad-iphone/mad/mad-Info.plist32651513917341812#452"    cd /Users/laurel/rhok/mad-iphone/mad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility mad-Info.plist -genpkginfo /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app/Info.plist0#
+
+CProcessPCH /var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch.gch mad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313220064.604256
+e313220065.341950
+r1
+xProcessPCH
+x/var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch.gch
+xmad_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile mad_Prefix.pch313220064#313220065#0(0"0(0#0#48"/Users/laurel/rhok/mad-iphone/mad/mad_Prefix.pch4300903632#1623"    cd /Users/laurel/rhok/mad-iphone/mad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-generated-files.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-own-target-headers.hmap -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-all-target-headers.hmap -iquote /Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/mad-project-headers.hmap -F/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator -I/Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/include -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources/i386 -I/Users/laurel/rhok/mad-iphone/mad/build/mad.build/Debug-iphonesimulator/mad.build/DerivedSources -c /Users/laurel/rhok/mad-iphone/mad/mad_Prefix.pch -o /var/folders/J8/J8rbjDltFFWDolm5vaK34k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/mad_Prefix-arbywypqvgstqlgxkslfhuxxngxw/mad_Prefix.pch.gch0#
+
+CTouch /Users/laurel/rhok/mad-iphone/mad/build/Debug-iphonesimulator/mad.app
+r0
+
